@@ -24,7 +24,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/oxctl/spring-boot-actuator-sentry.git</connection>
-        <developerConnection>scm:git:ssh://github.com/oxctl/spring-boot-actuator-sentry.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/oxctl/spring-boot-actuator-sentry.git</developerConnection>
         <url>https://github.com/oxctl/spring-boot-actuator-sentry/tree/master</url>
     </scm>
 
