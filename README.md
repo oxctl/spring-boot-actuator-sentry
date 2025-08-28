@@ -28,6 +28,8 @@ management.endpoints.web.exposure.include=sentry
 
 You may already have some endpoints exposed, in which case just add `,sentry` to the list.
 
+If you have some web security configured you will need to allow access to the sentry endpoint (`/actuator/sentry` by default).
+
 Usage
 -----
 
