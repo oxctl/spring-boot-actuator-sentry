@@ -1,5 +1,5 @@
-Spring Boot Actuator
-====================
+Spring Boot Actuator for Sentry
+===============================
 
 This library adds a new actuator endpoint called `sentry` which allows you to check that your Sentry configuration is correct and that events can be sent to Sentry.
 
